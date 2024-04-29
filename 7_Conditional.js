@@ -1,20 +1,20 @@
 // if
-// let a = prompt("What is your age?")
-// a= Number.parseInt(a)
-// if (a>0){
-//     alert("It is a valid age")
-// }
+let a = prompt("What is your age?")
+a= Number.parseInt(a)
+if (a>0){
+    alert("It is a valid age")
+}
 
 
 // if else
-// let b=prompt("Enter your age")
-// b= Number.parseInt(b);
-// if(b>18){
-//     alert("You are allowed to drive")
-// }
-// else{
-//     alert("You are not elligible to drive")
-// }
+let b=prompt("Enter your age")
+b= Number.parseInt(b);
+if(b>18){
+    alert("You are allowed to drive")
+}
+else{
+    alert("You are not elligible to drive")
+}
 
 //if else .. if
 let marks=prompt("Enter your marks ")
