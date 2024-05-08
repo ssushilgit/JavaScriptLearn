@@ -16,7 +16,7 @@
 
   let f = num.shift() //removes element from start of the array
   console.log(f)
-  console.log(num)
+  console.log(num) 
 
   let g = num.unshift(100) //adds element to the start of the array
   console.log(g)
